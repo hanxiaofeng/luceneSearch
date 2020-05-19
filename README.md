@@ -4,10 +4,13 @@ lucene search demo，lucene v8.4.0
 
 ### 1.介绍
 
-lucene库的jar包使用的是[android-lucene](https://github.com/shashavali-d/android-lucene)，需要的可以自行下载，感谢作者。
+   - lucene库的jar包使用的是[android-lucene](https://github.com/shashavali-d/android-lucene)，需要的可以自行下载，感谢作者;
+   - 部分代码来自[lucene-demo](https://github.com/sxei/lucene-demo)，用户可自行前往查看;
+
 
 ### 2.流程
 
+   - 准备：准备两个txt文件，放在指定目录用于对其创建索引并搜索;
    - 创建搜索内容的索引文件createIndex（此处我在sdcard放了两个txt文件测试）;
    - 我测试中分别对两个文件创建了索引，然后把两个合并为1个;
    - 根据关键字搜索合并后的索引，拿到结果;
