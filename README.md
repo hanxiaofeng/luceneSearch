@@ -16,6 +16,8 @@ lucene库的jar包使用的是[android-lucene](https://github.com/shashavali-d/a
 
 ![result](https://github.com/hanxiaofeng/luceneSearch/blob/master/image/result.png "result")
 
+### 输出执行过程和搜索结果：
+
 ```
 2020-05-19 14:54:33.939 9955-9955/org.lukhnos.lucenesearchdemo I/System.out: 开始读取文件:/mnt/sdcard/lucene/content1/万物在更新.txt
 2020-05-19 14:54:35.598 9955-9955/org.lukhnos.lucenesearchdemo I/System.out: 开始读取文件:/mnt/sdcard/lucene/content2/靠在车位上熄灭了火.txt
