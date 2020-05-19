@@ -14,8 +14,7 @@ lucene库的jar包使用的是[android-lucene](https://github.com/shashavali-d/a
 
 ### 3.执行结果
 
-![result](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/
-u=702257389,1274025419&fm=27&gp=0.jpg "区块链")
+![result](https://github.com/hanxiaofeng/luceneSearch/blob/master/image/result.png "result")
 
 ```
 2020-05-19 14:54:33.939 9955-9955/org.lukhnos.lucenesearchdemo I/System.out: 开始读取文件:/mnt/sdcard/lucene/content1/万物在更新.txt
