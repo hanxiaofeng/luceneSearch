@@ -8,9 +8,9 @@ lucene库的jar包使用的是[android-lucene](https://github.com/shashavali-d/a
 
 ### 2.流程
 
-    * 创建搜索内容的索引文件createIndex;
-    * 我测试中分别对两个文件创建了索引，然后把两个合并为1个;
-    * 根据关键字搜索合并后的索引，拿到结果;
+    - 创建搜索内容的索引文件createIndex;
+    - 我测试中分别对两个文件创建了索引，然后把两个合并为1个;
+    - 根据关键字搜索合并后的索引，拿到结果;
 
 ### 3.result
 
