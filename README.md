@@ -30,3 +30,9 @@ lucene库的jar包使用的是[android-lucene](https://github.com/shashavali-d/a
 2020-05-19 16:42:36.518 11321-11321/com.coo.lucenesearch I/System.out: 时辰，坐起来处理一些事情，倒不用坐在电脑前去忍受寒冷。有了手机倒也方便了许多，<span style="backgroud:red">一个个</span>应用软件处理完毕，已经是午夜两点了，精神有些亢奋的睡不着了。本想听听音乐舒缓一下情绪，想想还是算了吧，明天早晨还得早起
 
 ```
+
+### 4.注意事项
+
+1. api要大于等于26，也就android 8.0才可以使用，目前没找到合适的解决办法，有了解的希望告知。
+
+2. 本demo仅作测试调研用，希望对你有帮助。

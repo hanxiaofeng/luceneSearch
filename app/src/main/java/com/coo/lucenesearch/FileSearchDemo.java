@@ -159,11 +159,11 @@ public class FileSearchDemo {
         }
     }
 
-    public static void main(String args[]) {
+    /*public static void main(String args[]) {
         FileSearchDemo demo = new FileSearchDemo();
 //        demo.creatIndex();
 
 //		demo.mergeIndexFiles("D:\\study\\content\\lucene2","D:\\study\\content\\lucene");
 //        demo.search("一个个");
-    }
+    }*/
 }
