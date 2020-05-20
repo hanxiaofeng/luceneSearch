@@ -39,3 +39,5 @@ lucene search demo，lucene v8.4.0
 1. api要大于等于26，也就android 8.0才可以使用，目前没找到合适的解决办法，有了解的希望告知。
 
 2. 本demo仅作测试调研用，希望对你有帮助。
+
+3. 你也可以编译其他版本的lucene包，修改[android-lucene](https://github.com/shashavali-d/android-lucene)的版本号，然后导入intellij idea，点开右侧的gradle--app--build,执行后会在项目build/libs目录下生成对应版本的jar包，然后就可以使用了。
